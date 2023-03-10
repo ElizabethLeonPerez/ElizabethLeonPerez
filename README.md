@@ -17,6 +17,7 @@ Me encanta aprender y realizar cursos (parece chiste, pero no lo es). Como curio
 Podría hacer un ranking de cursos, un puntaje
 -->
 
+#
 Podés ver mi porfolio aquí.
 
 Medios de contacto y para saber más de mi.  
