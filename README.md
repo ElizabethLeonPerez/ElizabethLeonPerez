@@ -23,7 +23,7 @@ Medios de contacto y para saber más de mi.
 \
 [<img src="https://user-images.githubusercontent.com/106758379/224435241-9befe72c-bd75-49b3-b5cf-464b212aca9b.png" width="70"/>](elizabethleon073@gmail.com)
 [<img src="https://user-images.githubusercontent.com/106758379/224435237-af3e342d-370b-4010-b60d-74ec7ef09e9f.png" width="70"/>](https://www.linkedin.com/in/elizabethleonperez/)
-[<img src="https://user-images.githubusercontent.com/106758379/224435235-4b4bb561-22d2-4583-8391-c91495b31e39.png" width="70"/>](mailto:https://www.behance.net/elizabethleonperez)
+[<img src="https://user-images.githubusercontent.com/106758379/224435235-4b4bb561-22d2-4583-8391-c91495b31e39.png" width="70"/>](mailto:"https://www.behance.net/elizabethleonperez")
 
 
 <!--
