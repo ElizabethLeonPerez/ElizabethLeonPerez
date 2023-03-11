@@ -21,9 +21,9 @@ Podría hacer un ranking de cursos, un puntaje
 -->
 
 #
-Podés ver mi porfolio aquí.
+#### Podés ver mi porfolio [aquí](https://github.com/ElizabethLeonPerez/Portfolio).
 
-Medios de contacto y para saber más de mi.  
+#### Medios de contacto y para saber más de mi.  
 \
 [<img src="https://user-images.githubusercontent.com/106758379/224435241-9befe72c-bd75-49b3-b5cf-464b212aca9b.png" width="70"/>](mailto:elizabethleon073@gmail.com)
 [<img src="https://user-images.githubusercontent.com/106758379/224435237-af3e342d-370b-4010-b60d-74ec7ef09e9f.png" width="70"/>](https://www.linkedin.com/in/elizabethleonperez/)
