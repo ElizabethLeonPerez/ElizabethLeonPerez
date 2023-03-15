@@ -3,7 +3,8 @@ Mi nombre es Elizabeth León. Soy editora, graduada de la Universidad de Buenos 
 Hace 2 años que trabajo dentro del área técnica para una revista académica como desarrolladora Frontend, con inclinación al Back en PHP.  
 
 Como apacionada del desarrollo web, estoy familiarizada con las siguientes técnologías:  
-<img src="https://user-images.githubusercontent.com/106758379/225171571-a672b0da-deb7-47e9-81cc-e4f396a8914f.png" width="300"/>  
+<img src="https://user-images.githubusercontent.com/106758379/225172060-5d925663-6d31-4cbc-bf70-0aab0386ca11.png" width="300"/>  
+
 
 Además, como editora me manejo tambien con los siguientes programas:  
 
